@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am an aspiring analyst with a strong interest in data processing and insight detection, capable of turning complex numbers into understandable stories.</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?KirGo-91=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirGo-91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ## Hi there 👋
 **KirGo-91/KirGo-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
