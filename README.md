@@ -6,7 +6,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KirGo-91&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KirGo-91&theme=solarized_dark)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 ## Hi there 👋
 **KirGo-91/KirGo-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
