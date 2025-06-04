@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Kirill</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data analyst student from Russia ![image](https://github.com/user-attachments/assets/830a6859-fcb4-4335-a1c7-7f05fe326c26)
-</h3>
+<h3 align="center">Data analyst student from Russia 🇷🇺</h3>
 
 <!--
 ## Hi there 👋
