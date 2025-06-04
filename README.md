@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a target="_blank">Kirill</a> 
+<h1 align="center">Hi there,  my name is Kirill</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data analyst from Russia <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_Russia.svg" width="50"/></h3>
+<h3 align="center">I am an aspiring analyst with a strong interest in data processing and insight detection, capable of turning complex numbers into understandable stories.</h3>
 
 <!--
 ## Hi there 👋
