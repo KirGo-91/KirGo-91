@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Kirill</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data analyst from Russia <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_Russia.svg" alt="Флаг" width="50"/></h3>
+<h3 align="center">Data analyst from Russia <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_Russia.svg" width="50"/></h3>
 
 <!--
 ## Hi there 👋
