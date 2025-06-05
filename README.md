@@ -1,4 +1,4 @@
-<h1 align="center">Hi there,  my name is Kirill</a> 
+<h1 align="center">Hi there  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am an aspiring analyst with a strong interest in data processing and insight detection, capable of turning complex numbers into understandable stories.</h3>
 
